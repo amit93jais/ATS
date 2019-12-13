@@ -1,0 +1,28 @@
+body {
+	background-image: url('aqua-grand-plus-ro-system-250x250.jpg');
+	background-repeat: no-repeat;
+	text-align: left;
+	padding-right: 200px;
+}
+
+body h2 {
+	color: white;
+}
+
+table {
+	margin: auto;
+}
+
+th {
+	background-color: white;
+	color: black;
+	padding: 10px;
+	text-align: center;
+	font-size: 25px;
+}
+
+td {
+	padding: 10px;
+}
+
+
